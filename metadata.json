@@ -1,0 +1,6 @@
+{
+  "name": "Semester Class Schedule Generator",
+  "description": "An automated web utility for academic institutions that parses MS Word schedule tables, auto-calculates lecture calendars with holiday & sessional exclusions, and exports updated .docx schedules with preserved styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
